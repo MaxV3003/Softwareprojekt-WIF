@@ -11,6 +11,8 @@ namespace Klausuren_App
     /// <summary>
     /// Interaktionslogik für "App.xaml"
     /// </summary>
+    /// 
+    ///Martens 2ter Versuch
     public partial class App : Application
     {
     }
